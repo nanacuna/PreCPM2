@@ -1,0 +1,7 @@
+ - Create repository without README
+ - create-react--app (project name)
+ - cd (project name)
+ - git remote add origin ( url --> repository without README)
+ - git add public/index.html (changes)
+ - git commit -m 'test' (changes)
+ - git push --set-upstream origin master (to push changes the first time)
